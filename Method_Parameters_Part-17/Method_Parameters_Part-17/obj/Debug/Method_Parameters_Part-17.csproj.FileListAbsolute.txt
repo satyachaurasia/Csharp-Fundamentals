@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\Method_Parameters_Part-17\Method_Parameters_Part-17\bin\Debug\Method_Parameters_Part-17.exe.config
+C:\Users\satya\source\repos\Method_Parameters_Part-17\Method_Parameters_Part-17\bin\Debug\Method_Parameters_Part-17.exe
+C:\Users\satya\source\repos\Method_Parameters_Part-17\Method_Parameters_Part-17\bin\Debug\Method_Parameters_Part-17.pdb
+C:\Users\satya\source\repos\Method_Parameters_Part-17\Method_Parameters_Part-17\obj\Debug\Method_Parameters_Part-17.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\Method_Parameters_Part-17\Method_Parameters_Part-17\obj\Debug\Method_Parameters_Part-17.exe
+C:\Users\satya\source\repos\Method_Parameters_Part-17\Method_Parameters_Part-17\obj\Debug\Method_Parameters_Part-17.pdb

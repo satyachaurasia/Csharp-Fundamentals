@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\CommonOperators-Part5\CommonOperators-Part5\bin\Debug\CommonOperators-Part5.exe.config
+C:\Users\satya\source\repos\CommonOperators-Part5\CommonOperators-Part5\bin\Debug\CommonOperators-Part5.exe
+C:\Users\satya\source\repos\CommonOperators-Part5\CommonOperators-Part5\bin\Debug\CommonOperators-Part5.pdb
+C:\Users\satya\source\repos\CommonOperators-Part5\CommonOperators-Part5\obj\Debug\CommonOperators-Part5.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\CommonOperators-Part5\CommonOperators-Part5\obj\Debug\CommonOperators-Part5.exe
+C:\Users\satya\source\repos\CommonOperators-Part5\CommonOperators-Part5\obj\Debug\CommonOperators-Part5.pdb

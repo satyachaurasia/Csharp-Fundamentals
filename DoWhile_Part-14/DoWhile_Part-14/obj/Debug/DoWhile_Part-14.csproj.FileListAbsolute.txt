@@ -1,0 +1,7 @@
+C:\Users\satya\source\repos\DoWhile_Part-14\DoWhile_Part-14\bin\Debug\DoWhile_Part-14.exe.config
+C:\Users\satya\source\repos\DoWhile_Part-14\DoWhile_Part-14\bin\Debug\DoWhile_Part-14.exe
+C:\Users\satya\source\repos\DoWhile_Part-14\DoWhile_Part-14\bin\Debug\DoWhile_Part-14.pdb
+C:\Users\satya\source\repos\DoWhile_Part-14\DoWhile_Part-14\obj\Debug\DoWhile_Part-14.csprojAssemblyReference.cache
+C:\Users\satya\source\repos\DoWhile_Part-14\DoWhile_Part-14\obj\Debug\DoWhile_Part-14.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\DoWhile_Part-14\DoWhile_Part-14\obj\Debug\DoWhile_Part-14.exe
+C:\Users\satya\source\repos\DoWhile_Part-14\DoWhile_Part-14\obj\Debug\DoWhile_Part-14.pdb

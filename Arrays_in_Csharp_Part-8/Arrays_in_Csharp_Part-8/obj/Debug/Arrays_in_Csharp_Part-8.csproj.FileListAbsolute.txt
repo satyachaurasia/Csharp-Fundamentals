@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\Arrays_in_Csharp_Part-8\Arrays_in_Csharp_Part-8\bin\Debug\Arrays_in_Csharp_Part-8.exe.config
+C:\Users\satya\source\repos\Arrays_in_Csharp_Part-8\Arrays_in_Csharp_Part-8\bin\Debug\Arrays_in_Csharp_Part-8.exe
+C:\Users\satya\source\repos\Arrays_in_Csharp_Part-8\Arrays_in_Csharp_Part-8\bin\Debug\Arrays_in_Csharp_Part-8.pdb
+C:\Users\satya\source\repos\Arrays_in_Csharp_Part-8\Arrays_in_Csharp_Part-8\obj\Debug\Arrays_in_Csharp_Part-8.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\Arrays_in_Csharp_Part-8\Arrays_in_Csharp_Part-8\obj\Debug\Arrays_in_Csharp_Part-8.exe
+C:\Users\satya\source\repos\Arrays_in_Csharp_Part-8\Arrays_in_Csharp_Part-8\obj\Debug\Arrays_in_Csharp_Part-8.pdb

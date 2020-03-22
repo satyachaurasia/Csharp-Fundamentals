@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\WhileLoop_Part-13\WhileLoop_Part-13\bin\Debug\WhileLoop_Part-13.exe.config
+C:\Users\satya\source\repos\WhileLoop_Part-13\WhileLoop_Part-13\bin\Debug\WhileLoop_Part-13.exe
+C:\Users\satya\source\repos\WhileLoop_Part-13\WhileLoop_Part-13\bin\Debug\WhileLoop_Part-13.pdb
+C:\Users\satya\source\repos\WhileLoop_Part-13\WhileLoop_Part-13\obj\Debug\WhileLoop_Part-13.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\WhileLoop_Part-13\WhileLoop_Part-13\obj\Debug\WhileLoop_Part-13.exe
+C:\Users\satya\source\repos\WhileLoop_Part-13\WhileLoop_Part-13\obj\Debug\WhileLoop_Part-13.pdb

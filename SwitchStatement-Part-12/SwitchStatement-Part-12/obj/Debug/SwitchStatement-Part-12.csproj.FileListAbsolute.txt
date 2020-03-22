@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\SwitchStatement-Part-12\SwitchStatement-Part-12\bin\Debug\SwitchStatement-Part-12.exe.config
+C:\Users\satya\source\repos\SwitchStatement-Part-12\SwitchStatement-Part-12\bin\Debug\SwitchStatement-Part-12.exe
+C:\Users\satya\source\repos\SwitchStatement-Part-12\SwitchStatement-Part-12\bin\Debug\SwitchStatement-Part-12.pdb
+C:\Users\satya\source\repos\SwitchStatement-Part-12\SwitchStatement-Part-12\obj\Debug\SwitchStatement-Part-12.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\SwitchStatement-Part-12\SwitchStatement-Part-12\obj\Debug\SwitchStatement-Part-12.exe
+C:\Users\satya\source\repos\SwitchStatement-Part-12\SwitchStatement-Part-12\obj\Debug\SwitchStatement-Part-12.pdb

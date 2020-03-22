@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\Static_Instance_Class_Part-20\Static_Instance_Class_Part-20\bin\Debug\Static_Instance_Class_Part-20.exe.config
+C:\Users\satya\source\repos\Static_Instance_Class_Part-20\Static_Instance_Class_Part-20\bin\Debug\Static_Instance_Class_Part-20.exe
+C:\Users\satya\source\repos\Static_Instance_Class_Part-20\Static_Instance_Class_Part-20\bin\Debug\Static_Instance_Class_Part-20.pdb
+C:\Users\satya\source\repos\Static_Instance_Class_Part-20\Static_Instance_Class_Part-20\obj\Debug\Static_Instance_Class_Part-20.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\Static_Instance_Class_Part-20\Static_Instance_Class_Part-20\obj\Debug\Static_Instance_Class_Part-20.exe
+C:\Users\satya\source\repos\Static_Instance_Class_Part-20\Static_Instance_Class_Part-20\obj\Debug\Static_Instance_Class_Part-20.pdb

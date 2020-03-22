@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\String_Type_in_Csharp-Part4\String_Type_in_Csharp-Part4\bin\Debug\String_Type_in_Csharp-Part4.exe.config
+C:\Users\satya\source\repos\String_Type_in_Csharp-Part4\String_Type_in_Csharp-Part4\bin\Debug\String_Type_in_Csharp-Part4.exe
+C:\Users\satya\source\repos\String_Type_in_Csharp-Part4\String_Type_in_Csharp-Part4\bin\Debug\String_Type_in_Csharp-Part4.pdb
+C:\Users\satya\source\repos\String_Type_in_Csharp-Part4\String_Type_in_Csharp-Part4\obj\Debug\String_Type_in_Csharp-Part4.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\String_Type_in_Csharp-Part4\String_Type_in_Csharp-Part4\obj\Debug\String_Type_in_Csharp-Part4.exe
+C:\Users\satya\source\repos\String_Type_in_Csharp-Part4\String_Type_in_Csharp-Part4\obj\Debug\String_Type_in_Csharp-Part4.pdb

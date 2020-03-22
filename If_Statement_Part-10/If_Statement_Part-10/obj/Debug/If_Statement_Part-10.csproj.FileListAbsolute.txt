@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\If_Statement_Part-10\If_Statement_Part-10\bin\Debug\If_Statement_Part-10.exe.config
+C:\Users\satya\source\repos\If_Statement_Part-10\If_Statement_Part-10\bin\Debug\If_Statement_Part-10.exe
+C:\Users\satya\source\repos\If_Statement_Part-10\If_Statement_Part-10\bin\Debug\If_Statement_Part-10.pdb
+C:\Users\satya\source\repos\If_Statement_Part-10\If_Statement_Part-10\obj\Debug\If_Statement_Part-10.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\If_Statement_Part-10\If_Statement_Part-10\obj\Debug\If_Statement_Part-10.exe
+C:\Users\satya\source\repos\If_Statement_Part-10\If_Statement_Part-10\obj\Debug\If_Statement_Part-10.pdb

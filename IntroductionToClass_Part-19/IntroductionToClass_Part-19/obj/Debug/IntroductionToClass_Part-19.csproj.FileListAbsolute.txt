@@ -1,0 +1,7 @@
+C:\Users\satya\source\repos\IntroductionToClass_Part-19\IntroductionToClass_Part-19\obj\Debug\IntroductionToClass_Part-19.csprojAssemblyReference.cache
+C:\Users\satya\source\repos\IntroductionToClass_Part-19\IntroductionToClass_Part-19\obj\Debug\IntroductionToClass_Part-19.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\IntroductionToClass_Part-19\IntroductionToClass_Part-19\bin\Debug\IntroductionToClass_Part-19.exe.config
+C:\Users\satya\source\repos\IntroductionToClass_Part-19\IntroductionToClass_Part-19\bin\Debug\IntroductionToClass_Part-19.exe
+C:\Users\satya\source\repos\IntroductionToClass_Part-19\IntroductionToClass_Part-19\bin\Debug\IntroductionToClass_Part-19.pdb
+C:\Users\satya\source\repos\IntroductionToClass_Part-19\IntroductionToClass_Part-19\obj\Debug\IntroductionToClass_Part-19.exe
+C:\Users\satya\source\repos\IntroductionToClass_Part-19\IntroductionToClass_Part-19\obj\Debug\IntroductionToClass_Part-19.pdb

@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\ForLoops_Part-15\ForLoops_Part-15\bin\Debug\ForLoops_Part-15.exe.config
+C:\Users\satya\source\repos\ForLoops_Part-15\ForLoops_Part-15\bin\Debug\ForLoops_Part-15.exe
+C:\Users\satya\source\repos\ForLoops_Part-15\ForLoops_Part-15\bin\Debug\ForLoops_Part-15.pdb
+C:\Users\satya\source\repos\ForLoops_Part-15\ForLoops_Part-15\obj\Debug\ForLoops_Part-15.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\ForLoops_Part-15\ForLoops_Part-15\obj\Debug\ForLoops_Part-15.exe
+C:\Users\satya\source\repos\ForLoops_Part-15\ForLoops_Part-15\obj\Debug\ForLoops_Part-15.pdb

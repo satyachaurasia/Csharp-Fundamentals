@@ -1,0 +1,6 @@
+C:\Users\satya\source\repos\Datatypes_Conversion_Part-7\Datatypes_Conversion_Part-7\obj\Debug\Datatypes_Conversion_Part-7.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\Datatypes_Conversion_Part-7\Datatypes_Conversion_Part-7\bin\Debug\Datatypes_Conversion_Part-7.exe.config
+C:\Users\satya\source\repos\Datatypes_Conversion_Part-7\Datatypes_Conversion_Part-7\bin\Debug\Datatypes_Conversion_Part-7.exe
+C:\Users\satya\source\repos\Datatypes_Conversion_Part-7\Datatypes_Conversion_Part-7\bin\Debug\Datatypes_Conversion_Part-7.pdb
+C:\Users\satya\source\repos\Datatypes_Conversion_Part-7\Datatypes_Conversion_Part-7\obj\Debug\Datatypes_Conversion_Part-7.exe
+C:\Users\satya\source\repos\Datatypes_Conversion_Part-7\Datatypes_Conversion_Part-7\obj\Debug\Datatypes_Conversion_Part-7.pdb
