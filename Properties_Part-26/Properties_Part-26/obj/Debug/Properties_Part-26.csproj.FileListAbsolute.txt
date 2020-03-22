@@ -1,0 +1,7 @@
+C:\Users\satya\source\repos\Properties_Part-26\Properties_Part-26\bin\Debug\Properties_Part-26.exe.config
+C:\Users\satya\source\repos\Properties_Part-26\Properties_Part-26\bin\Debug\Properties_Part-26.exe
+C:\Users\satya\source\repos\Properties_Part-26\Properties_Part-26\bin\Debug\Properties_Part-26.pdb
+C:\Users\satya\source\repos\Properties_Part-26\Properties_Part-26\obj\Debug\Properties_Part-26.csprojAssemblyReference.cache
+C:\Users\satya\source\repos\Properties_Part-26\Properties_Part-26\obj\Debug\Properties_Part-26.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\Properties_Part-26\Properties_Part-26\obj\Debug\Properties_Part-26.exe
+C:\Users\satya\source\repos\Properties_Part-26\Properties_Part-26\obj\Debug\Properties_Part-26.pdb

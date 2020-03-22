@@ -1,0 +1,7 @@
+C:\Users\satya\source\repos\Structs_in_Csharp_Part-28\Structs_in_Csharp_Part-28\bin\Debug\Structs_in_Csharp_Part-28.exe.config
+C:\Users\satya\source\repos\Structs_in_Csharp_Part-28\Structs_in_Csharp_Part-28\bin\Debug\Structs_in_Csharp_Part-28.exe
+C:\Users\satya\source\repos\Structs_in_Csharp_Part-28\Structs_in_Csharp_Part-28\bin\Debug\Structs_in_Csharp_Part-28.pdb
+C:\Users\satya\source\repos\Structs_in_Csharp_Part-28\Structs_in_Csharp_Part-28\obj\Debug\Structs_in_Csharp_Part-28.csprojAssemblyReference.cache
+C:\Users\satya\source\repos\Structs_in_Csharp_Part-28\Structs_in_Csharp_Part-28\obj\Debug\Structs_in_Csharp_Part-28.csproj.CoreCompileInputs.cache
+C:\Users\satya\source\repos\Structs_in_Csharp_Part-28\Structs_in_Csharp_Part-28\obj\Debug\Structs_in_Csharp_Part-28.exe
+C:\Users\satya\source\repos\Structs_in_Csharp_Part-28\Structs_in_Csharp_Part-28\obj\Debug\Structs_in_Csharp_Part-28.pdb
